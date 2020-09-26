@@ -5,3 +5,18 @@ One line is one (anonymous) match taken from various tournament transcripts. Mov
 Note that there is no indication about why matches were ended. Some of these were timed games decided by the clock.
 
 However your deep learning project interprets the board, you can use these records to train a value or a policy network.
+
+## Citation
+
+If these data were helpful for your research, please consider citing this repository.
+
+```
+@misc{grandmaster_chess_2020,
+  title={Transcripts from Grandmaster Chess Matches Formatted for Deep Learning},
+  author={Eric C. Joyce},
+  year={2020},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/EricCJoyce/Datasets}}
+}
+```
