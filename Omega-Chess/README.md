@@ -6,9 +6,9 @@ For all documents, one uncommented line is one match. Moves follow the notation 
 
 `mcts.txt` was generated using Monte Carlo tree search.
 
-`trueonlinetdl.txt` was generated during True Online TD(lambda).
+`trueonlinetdl.txt` was generated during True Online TD(lambda) training.
 
-`tdl.txt` was generated during TD(lambda).
+`tdl.txt` was generated during TD(lambda) training.
 
 However your deep learning project interprets the board, you can use these records to train a value or a policy network.
 
