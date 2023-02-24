@@ -4,6 +4,8 @@ Grand Chess was invented by [Christian Freeling](https://www.mindsports.nl/index
 
 For all documents, one uncommented line is one match. Moves follow the notation illustrated in REF.png. Moves alternate sides and are separated by spaces. Move indices are separated by hyphens. Pawn promotions are tripartite, with uppercase symbols for white and lowercase symbols for black, e.g. 64-74-M. There is no castling in Grand Chess. Match results are separated from their move sequences by a tab. 1/2-1/2 means the game ended in a draw. 1-0 means white (side to move first) won. 0-1 means black won.
 
+`freeling.txt` is a collection of matches played by humans.
+
 `mcts.txt` was generated using Monte Carlo tree search.
 
 `trueonlinetdl.txt` was generated during True Online TD(lambda) training.
