@@ -1,0 +1,84 @@
+#  The American Checker Federation has named several openings. Sometimes during tournaments openings are drawn by lottery.
+#  FEN stands for Forsyth-Edwards Notation, originally used for chess.
+#  In these FENs, the first character {r, w} indicates the side to move in this state.
+#  P = red pawn; p = white pawn; K = red king; k = white king.
+#  Starting position  <tab>  FEN
+26-17 Single Corner	rPPPPPPPPP1PP42p1pp1pppp1pppp
+27-20 Second Double Corner	rPPPPPPPPP1PP4p31pppp1pppppp
+Alma	wP1PPPPPPPPPP1P21p1pp2ppppppppp
+Ayrshire Lassie	rPPPP1PPPPPPP1P2p3pppp1ppppppp
+Black Doctor	wPPPP2PPPP22PP3Pp2ppppppppp
+The Black Hole	wPPPPPPPPPP22PP3ppp1ppppppppp
+The Black Widow	wPPPPPPPPP1PP44pPpppppppppp
+Bonnie Dundee	wPPPP1PPPPPPPP3p31ppppppppppp
+Boston	rPPPPPPPPP1P11PpP4pp1ppppppppp
+Bristol Cross	wPPPPPPPPP1PP4P1p1p1pppppppppp
+Centre	wPPPP1PPPPPPP41pPpp2ppppppppp
+The Cheetah	wPPPPPPPPP2PPP22p1pp1ppppppppp
+Crescent Cross	rPPPP1PPPPPPP1P22p1pppppp1ppppp
+Cross	wPPPP1PPPPPPP1P22p1p1pppppppppp
+Cross Choice	wPPPPPPPPP1P11PP12p1p1pppppppppp
+Defiance	rPPPPPPPPP1P11PP11p2ppppp1pppppp
+Denny Dodger	wPPPPPPPPP2P1PP13ppp1ppppppppp
+Diabolical Denny	wPPPPP1PPPPPP2P11p2p1pppppppppp
+Double Corner Dyke	wPPPPPPPPP1P12P11P1pppppppp1pppp
+Double Cross	wPPPPPPPPPPP144pPpppppppppp
+Douglas	r1PPPPPPPPPPP1P1p4ppppppp1pppp
+Dreaded Edinburgh	wPPPPPPP1PPPP3P2p1pp1ppppppppp
+Dyke	wPPPPPPPPP1PP41P1ppp1ppppppppp
+Edinburgh Single	wPPPPPPPPP1P11P1P2p1pp1ppppppppp
+Fife	wPPPPPPP1P1PP1PP11p1pp2ppppppppp
+Frasers Inferno	wPPPPP1PPPPPP2P12p1pp1ppppppppp
+The Garter Snake	wPPPPPPPPPP21P1P1p2p1pppppppppp
+Gemeni I	wPPPPPPPPP2PP1P13ppp1ppppppppp
+Gemeni II	wPPPPPPPPP2PPP21p2p1pppppppppp
+Glasgow	wPPPP1PPPP1PPPP21p1pp2ppppppppp
+The Goatgetter	wPPPPPP1PPPPP1P22p1p1pppppppppp
+The Henderson	wPPPPPPPPPP21P1P2p1pp1ppppppppp
+The Inferno	wPPPPPPPPPP22PP2p1pp1ppppppppp
+The Jaywalker	w1PPPPPPPPPPP4Ppp11ppppp1ppppp
+Kelso Cross	rPPPPPPPPPP1P1P22p1p1pppppppppp
+Kelso Single	wPPPPPPPPPP1P44ppPppppppppp
+Laird Lady	rPPPP1PPPPP21PpP1p2p3pppppppp
+Laird Lady Refused	rPPPP1PPPPPP11P1P1p1pp1ppppp1pppp
+Maid of the Mill	wPPPP1PPPPPPP3p2P1pp1ppppppppp
+The Manchester	wPPPPP1PPPPPPP32p1p1pppppppppp
+Millbury	wPPPP1PPPPPPPP32p1pp1ppppppppp
+Minotaur	wPPPPPPPP1PP1P1P13pppp1pppppppp
+Montrose Cross	wPPPPPPPPP1PP41Pp1p1pppppppppp
+Nailor	rPPPP1PPPPPPP1P21p2pppppp1ppppp
+The Nemesis	wPPPPPP1PPPPP2P11p21ppppppppppp
+The Nutcracker	wPPPPPPPPPP21PP13ppp1ppppppppp
+The Octopus	wPPPPP1PPPPPP1P23pppp1pppppppp
+Old Fourteenth	w1PPPPPPPPPPP1P21p1pp2ppppppppp
+Old Paraffin	rPPPP1PPPPPPP1P2p3ppppp1pppppp
+Olivers Twister	wPPPP1PPPPPPPP33pppp1pppppppp
+Paisley	rPPPP1PPPPPPPP31pp11p1ppppppppp
+Pioneer	wPPPP1PPPP1PPPP23pppppppp1pppp
+Pluto	wPPPPPPPPPPP142pPpp1ppppppppp
+The Rattlesnake	wPPPPPPPPP1P11PP11p2p1pppppppppp
+The Rattlesnake II	wPPPPPPPPP2P1PP11p21ppppppppppp
+Ryans Cross	wPPPPPPPP2PPPP22p1p1pppppppppp
+Second Double Corner	rPPPPPPPPP1PP41p21ppp1ppppppp
+The Shark	wPPPPPPPPP2PP1P13pppp1pppppppp
+The Skull Cracker	wPPPPPPPPPP1P41P1ppp1ppppppppp
+The Skunk	wPPPPPPPP2PPPP2p31ppppppppppp
+Slip Cross	wPPPP1PPPPpPP4P3ppppp1pppppp
+Souter	wPPPPPP1PP1PP1PP11p1pp2ppppppppp
+Stricklands Cross	wPPPPP1PPPPPP1P22p1p1pppppppppp
+Switcher	wPPPP1PPPPPP11P1P3pppppppp1pppp
+Tillicoultry	rPPPP1PPPPPPP1P21pp1p2ppppppppp
+The Twilight Zone	wPPPPPPPPP1P1P2Pp31ppppppppppp
+The Tyne	wPPPPPPPPPP21P1P3pppp1pppppppp
+The Virginia	wPPPPPPPPP2P1PP11p2p1pppppppppp
+Wagram	rPPPPPPPPPpP14p31p1pppp1pppp
+Waterloo	rPPPP1PPPPPPP1Pp14p1pppppppppp
+Whilter	wPPPPP1PPPPP11PP11p1pp2ppppppppp
+Whilter Exchange	rPPPPP1PPPPPP1P21pp1p2ppppppppp
+White Doctor	rPPPP1PPPPP1Pp3pp22pppp2pppp
+White Dyke	rPPPP1PPPPPPP1Pp14pp1ppppppppp
+The Wilderness	wPPPPPPPPP1P1P2P2p1pp1ppppppppp
+The Wilderness Companion	wPPPPPPPPP1P1P2P3ppp1ppppppppp
+The Wilderness II	wPPPPPPPPP1P1P2P2p1p1pppppppppp
+Will-o-the-Wisp	wPPPPPPPPP1P11P1P1p2p1pppppppppp
+GAYP	rPPPPPPPPPPPP44pppppppppppp
