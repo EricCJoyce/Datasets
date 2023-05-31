@@ -17,8 +17,8 @@ However your deep learning project interprets the board, you can use these recor
 If these data were helpful for your research, please consider citing this repository.
 
 ```
-@misc{american_checker_federation_2020,
-  title={Match Transcripts from the American Checker Federation Formatted for Deep Learning},
+@misc{checkers_2020,
+  title={Checkers Transcripts},
   author={Eric C. Joyce},
   year={2020},
   publisher={Github},
