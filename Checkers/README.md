@@ -8,8 +8,6 @@ Moves follow the notation illustrated in REF.png. Moves alternate sides and are 
 
 `tdl.txt`: generated during TD(lambda) training. In this file, the starting position of each match appears first per line.
 
-`genetic.txt`: transcripts of genetic algorithm tournaments.
-
 However your deep learning project interprets the board, you can use these records to train a value or a policy network.
 
 ## Citation
