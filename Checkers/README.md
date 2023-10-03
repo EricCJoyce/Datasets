@@ -6,6 +6,8 @@ Moves follow the notation illustrated in REF.png. Moves alternate sides and are 
 
 `ACF.txt`: one line is one (anonymous) match taken from the ACF archives.
 
+`genetic.txt`: generated during the genetic algorithm. This file omits drawn matches.
+
 `tdl.txt`: generated during TD(lambda) training. In this file, the starting position of each match appears first per line.
 
 However your deep learning project interprets the board, you can use these records to train a value or a policy network.
